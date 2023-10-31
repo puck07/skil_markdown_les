@@ -1,6 +1,6 @@
 # skil_markdown_les
 #pepernoten bakken
-([]https://static.ah.nl/static/recepten/img_RAM_PRD156602_1224x900_JPG.jpg)
+[](![Alt text](image-1.png))
 ## BENODIGDHEDEN
 
 * 150 g ongezouten roomboter
